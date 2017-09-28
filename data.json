@@ -1,0 +1,10 @@
+{
+  "customers": [
+    {
+      "name": "Pennywise",
+      "email": "penny@wise.com",
+      "age": "120",
+      "id": 1
+    }
+  ]
+}
