@@ -4,7 +4,8 @@
 
 # 'npm run jsn' = json-server --watch data.json
 
-# http://localhost:3000/
+# http://localhost:3000/customers
+## http://localhost:3000
 
 
 # GraphiQL
